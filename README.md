@@ -1,8 +1,3 @@
-# React + Vite
+# 3D Personal portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+In this project, I utilized a technical stack that includes React.js, Three.js, React Three Fiber, React Three Drei, EmailJS, Vite, and Tailwind CSS. Through this development experience, I gained valuable knowledge in Three.js for 3D rendering, learned how to effectively use React Three Fiber to create interactive 3D graphics within a React application, and utilized React Three Drei to simplify the integration of 3D components. Additionally, I implemented EmailJS for seamless email communication and used Vite for a fast development environment, all while styling the application with Tailwind CSS.
