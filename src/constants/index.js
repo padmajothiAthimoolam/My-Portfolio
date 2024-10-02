@@ -138,7 +138,7 @@ import {
       company_name: "Prometheus software- iHeartMedia - inferno",
       icon: prometheus,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "Jun 2021 - Oct 2022",
       points: [
         "Supporting iHeartMedia’s broader goal of optimizing usability across over 960 radio stations.",
         "Enhancing user experience for listeners with engaging and dynamic content.",
