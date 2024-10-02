@@ -182,7 +182,7 @@ import {
     {
       name: "Health Connect",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        " Developed a health management platform using Next.js, React, and TypeScript, featuring Appwrite integration for authentication and real-time updates, a cohesive design with the Shadcn Design System, SMS notifications for timely user alerts, and deployed on Vercel for scalability and performance.",
       tags: [
         {
           name: "Next.js",
