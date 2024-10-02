@@ -28,7 +28,7 @@ const Blogs = () => {
         className={`bg-tertiary rounded-2xl ${styles.padding} min-h-[300px]`}
       >
         <motion.div variants={textVariant()}>
-          <p className={styles.sectionSubText}>How I engage</p>
+          <p className={styles.sectionSubText}>How I share knowledge</p>
           <h2 className={styles.sectionHeadText}>Blogging.</h2>
         </motion.div>
       </div>
