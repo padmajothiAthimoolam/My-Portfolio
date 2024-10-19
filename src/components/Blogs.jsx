@@ -29,7 +29,8 @@ const Blogs = () => {
       >
         <motion.div variants={textVariant()}>
           <p className={styles.sectionSubText}>How I share knowledge</p>
-          <h2 className={styles.sectionHeadText}>Blogging.</h2>
+          <h2 className={styles.sectionHeadText}>Blogging</h2>
+          <p className={styles.sectionSubText}>You can explore all my blogs on <a href="https://dev.to/padmajothi_athimoolam_23d">Dev.to</a>, where I share insights and experiences on various topics related to development and technology.</p>
         </motion.div>
       </div>
       <div className={`-mt-20 pb-14 ${styles.paddingX} flex flex-wrap gap-7`}>
