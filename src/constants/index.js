@@ -16,6 +16,7 @@ import {
     docker,
     prometheus,
     tcs,
+    trimah,
     healthconnect,
     threejs,
   } from "../assets";
@@ -151,6 +152,7 @@ import {
     {
       title: "Frontend Developer",
       company_name: "Trimah Technologies LLC",
+      icon: trimah,
       iconBg: "#383E56",
       date: "Oct 2019 - May 2021",
       points: [
