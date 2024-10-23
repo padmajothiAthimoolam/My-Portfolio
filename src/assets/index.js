@@ -23,7 +23,7 @@ import threejs from "./tech/threejs.svg";
 
 import prometheus from "./company/prometheus.png";
 import tcs from "./company/tcs.png";
-import trimah from "./company/trimah.png";
+import sbs from "./company/sbs.png";
 import healthconnect from "./healthconnect.png";
 
 export {
@@ -49,7 +49,7 @@ export {
   typescript,
   threejs,
   prometheus,
-  trimah,
+  sbs,
   tcs,
   healthconnect,
 };
