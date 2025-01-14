@@ -17,6 +17,7 @@ import {
     prometheus,
     sbs,
     healthconnect,
+    ecommerce,
     threejs,
   } from "../assets";
   
@@ -153,7 +154,7 @@ import {
       company_name: "SBS Corp",
       icon: sbs,
       iconBg: "#383E56",
-      date: "Oct 2019 - May 2021",
+      date: "Oct 2018 - May 2021",
       points: [
         "Designed nd implemented user-friendly interfaces for the Unified Desktop, ensuring a seamless experience for users accessing various financial services",
         "Improved application performance by optimizing code, minimizing loading times, and implementing best practices for web performance.",
@@ -204,6 +205,40 @@ import {
       image: healthconnect,
       link: "https://health-connect--rho.vercel.app/",
       source_code_link: "https://github.com/padmajothiAthimoolam/Health-Connect",
+    },
+    {
+      name: "Ecommerce",
+      description:
+        "This project aims to build a secure and fast online store with features like easy payments, user login, and product management, providing a seamless shopping experience and efficient performance. It uses MongoDB for data storage, Redis for quick data retrieval, Stripe for secure payments, and Tailwind CSS for a responsive and stylish design.",
+      tags: [
+        {
+          name: "React.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "TypeScript",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Node.js",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "MongoDB",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Stripe",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Redis",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: ecommerce,
+      link: "https://health-connect--rho.vercel.app/",
+      source_code_link: "https://github.com/padmajothiAthimoolam/ECommerce-application",
     },
   ];
   

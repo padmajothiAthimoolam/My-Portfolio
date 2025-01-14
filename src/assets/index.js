@@ -24,6 +24,7 @@ import threejs from "./tech/threejs.svg";
 import prometheus from "./company/prometheus.png";
 import sbs from "./company/sbs.png";
 import healthconnect from "./healthconnect.png";
+import ecommerce from "./ecommerce.png";
 
 export {
   logo,
@@ -50,4 +51,5 @@ export {
   prometheus,
   sbs,
   healthconnect,
+  ecommerce
 };
