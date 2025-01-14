@@ -15,7 +15,6 @@ import {
     figma,
     docker,
     prometheus,
-    tcs,
     sbs,
     healthconnect,
     threejs,
@@ -160,20 +159,6 @@ import {
         "Improved application performance by optimizing code, minimizing loading times, and implementing best practices for web performance.",
         "Ensure fast loading times and smooth interactions by optimizing assets and minimizing HTTP requests",
         "Collaborated with backend teams to integrate RESTful APIs and MongoDB for data management, ensuring smooth data flow and functionality across the platform."
-      ],
-    },
-    {
-      title: "Web developer",
-      company_name: "TATA consultancy services - Bank of America",
-      icon: tcs,
-      iconBg: "#E6DEDD",
-      date: "Sep 2006 - May 2009",
-      points: [
-        "Create a user-friendly interface for seamless loan application submissions.",
-        "Implement secure authentication and data protection measures.",
-        "Optimize the application for performance and responsiveness across devices.",
-        "Integrate real-time tracking for application status updates.",
-        "Facilitate communication channels for user support and inquiries."
       ],
     },
   ];
