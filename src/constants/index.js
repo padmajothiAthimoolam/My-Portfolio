@@ -108,7 +108,7 @@ import {
   
   const experiences = [
     {
-      title: "Fullstack Developer",
+      title: "Senior Fullstack Developer",
       company_name: "Prometheus software - Commodity Forwarders Inc.",
       icon: prometheus,
       iconBg: "#383E56",
@@ -121,7 +121,7 @@ import {
       ],
     },
     {
-      title: "Frontend Developer",
+      title: "Fullstack Developer",
       company_name: "Prometheus software - iHeartMedia - Polaris",
       icon: prometheus,
       iconBg: "#E6DEDD",
@@ -135,8 +135,8 @@ import {
       ],
     },
     {
-      title: "Frontend Developer",
-      company_name: "Prometheus software- iHeartMedia - inferno",
+      title: "Fullstack Developer",
+      company_name: "Prometheus software- iHeartMedia - Inferno",
       icon: prometheus,
       iconBg: "#383E56",
       date: "Jun 2021 - Oct 2022",
