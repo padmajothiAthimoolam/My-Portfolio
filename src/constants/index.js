@@ -207,7 +207,7 @@ import {
       source_code_link: "https://github.com/padmajothiAthimoolam/Health-Connect",
     },
     {
-      name: "Ecommerce",
+      name: "E-Commerce",
       description:
         "This project aims to build a secure and fast online store with features like easy payments, user login, and product management, providing a seamless shopping experience and efficient performance. It uses MongoDB for data storage, Redis for quick data retrieval, Stripe for secure payments, and Tailwind CSS for a responsive and stylish design.",
       tags: [
