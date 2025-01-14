@@ -9,14 +9,16 @@ import { blogs } from "../constants";
 const FeedbackCard = ({
   index,
   blog,
-  link
+  link,
+  title
 }) => (
   <motion.div
     variants={fadeIn("", "spring", index * 0.5, 0.75)}
     className='bg-black-200 p-10 rounded-3xl xs:w-[320px] w-full'
   >
     <div className='mt-1 cursor-pointer'>
-      <p className='text-white tracking-wider text-[18px]'><a href={`${link}`}>{blog}</a></p>
+      <h1 className='text-white font-bold text-[24px]'>{title}</h1>
+      <p className='text-white tracking-wider text-[14px]'><a href={`${link}`}>{blog}</a></p>
     </div>
   </motion.div>
 );

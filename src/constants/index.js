@@ -166,16 +166,29 @@ import {
   
   const blogs = [
     {
+      title: "Code Review CheckList",
       blog: "Detailed checklist for developers to conduct effective code reviews in React, helping ensure code quality and best practices.",
       link: "https://dev.to/padmajothi_athimoolam_23d/react-code-review-essentials-a-detailed-checklist-for-developers-20n2",
     },
     {
+      title: "React Query",
       blog: "How to simplify data fetching in React by using React Query instead of the traditional useEffect hook, making it easier to manage server state.",
       link: "https://dev.to/padmajothi_athimoolam_23d/simplifying-fetching-data-with-react-query-replacing-useeffect-ac4",
     },
     {
+      title: "Redux tool kit",
       blog: "How to use Redux Toolkit's createSlice feature to simplify state management in React applications by reducing boilerplate code.",
       link: "https://dev.to/padmajothi_athimoolam_23d/the-power-of-redux-toolkits-createslice-1p1k",
+    },
+    {
+      title: "Env Variables in Vite",
+      blog: "The article covers managing environment variables in Vite using .env files, the VITE_ prefix, and securing sensitive data.",
+      link: "https://dev.to/padmajothi_athimoolam_23d/handling-environment-variables-in-vite-480b"
+    },
+    {
+      title: "Comparing Testing Approaches for React Apps",
+      blog: "TThe article compares Jest, React Testing Library, and Playwright, explaining their strengths and use cases for unit, integration, and end-to-end testing in React applications.",
+      link: "https://dev.to/padmajothi_athimoolam_23d/comparing-jest-react-testing-library-and-playwright-testing-approaches-for-react-applications-15ic"
     },
   ];
   
