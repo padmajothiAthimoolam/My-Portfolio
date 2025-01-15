@@ -112,7 +112,6 @@ import {
       company_name: "Prometheus software - Commodity Forwarders Inc.",
       icon: prometheus,
       iconBg: "#383E56",
-      date: "May 2023 - September 2024",
       points: [
         "The Shipment Dashboard is an integrated application that streamlines shipment management and employee activities at CFI Perishables.",
         "The system will offer real-time shipment visibility, automated update notifications, and historical tracking data for performance analysis.",
@@ -125,7 +124,6 @@ import {
       company_name: "Prometheus software - iHeartMedia - Polaris",
       icon: prometheus,
       iconBg: "#E6DEDD",
-      date: "Nov 2022 - Apr 2023",
       points: [
         "Develop a user-friendly interface for easy navigation of media and entertainment offerings.",
         "Implement features for accessing radio broadcasting, digital platforms, and podcasts.",
@@ -139,7 +137,6 @@ import {
       company_name: "Prometheus software- iHeartMedia - Inferno",
       icon: prometheus,
       iconBg: "#383E56",
-      date: "Jun 2021 - Oct 2022",
       points: [
         "Supporting iHeartMedia’s broader goal of optimizing usability across over 960 radio stations.",
         "Enhancing user experience for listeners with engaging and dynamic content.",
@@ -154,7 +151,18 @@ import {
       company_name: "SBS Corp",
       icon: sbs,
       iconBg: "#383E56",
-      date: "Oct 2018 - May 2021",
+      points: [
+        "Designed nd implemented user-friendly interfaces for the Unified Desktop, ensuring a seamless experience for users accessing various financial services",
+        "Improved application performance by optimizing code, minimizing loading times, and implementing best practices for web performance.",
+        "Ensure fast loading times and smooth interactions by optimizing assets and minimizing HTTP requests",
+        "Collaborated with backend teams to integrate RESTful APIs and MongoDB for data management, ensuring smooth data flow and functionality across the platform."
+      ],
+    },
+    {
+      title: "Faculty member",
+      company_name: "SBS Corp",
+      icon: sbs,
+      iconBg: "#383E56",
       points: [
         "Designed nd implemented user-friendly interfaces for the Unified Desktop, ensuring a seamless experience for users accessing various financial services",
         "Improved application performance by optimizing code, minimizing loading times, and implementing best practices for web performance.",
