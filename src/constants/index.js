@@ -158,18 +158,6 @@ import {
         "Collaborated with backend teams to integrate RESTful APIs and MongoDB for data management, ensuring smooth data flow and functionality across the platform."
       ],
     },
-    {
-      title: "Faculty member",
-      company_name: "SBS Corp",
-      icon: sbs,
-      iconBg: "#383E56",
-      points: [
-        "Designed nd implemented user-friendly interfaces for the Unified Desktop, ensuring a seamless experience for users accessing various financial services",
-        "Improved application performance by optimizing code, minimizing loading times, and implementing best practices for web performance.",
-        "Ensure fast loading times and smooth interactions by optimizing assets and minimizing HTTP requests",
-        "Collaborated with backend teams to integrate RESTful APIs and MongoDB for data management, ensuring smooth data flow and functionality across the platform."
-      ],
-    },
   ];
   
   const blogs = [
